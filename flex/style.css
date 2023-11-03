@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+header{
+    background-color: aquamarine;
+    display: flex; 
+}
+
+cuadrado{
+    width:10px;
+    height: 10px;
+    border: 5px;
+}
